@@ -1,5 +1,9 @@
 # Lyrica - Earth Guardian — Meteor Madness Challenge (NASA Space Apps)
 
+Name: Ridha Alturaiki
+Email: yahyahu49@gmail.com
+
+
 **Challenge:** Meteor Madness  
 **Goal:** To visualize, predict, and educate the public about meteor impacts using NASA’s open datasets.  
 
@@ -65,6 +69,7 @@ pip install -r requirements.txt
 
 4. Run the streamlit app
 streamlit run app.py
+
 
 
 
