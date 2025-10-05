@@ -32,6 +32,8 @@ For each meteor:
 Earth Guardian helps bridge the gap between scientists and the public.  
 It transforms raw NASA datasets into something everyone can explore, understand, and learn from — bringing awareness to planetary defense in an engaging way.
 
+### Note: 
+This project Has been done solo and my coding skills are limited so AI has been used to assist with the code.
 ---
 
 ### How to Run Locally
@@ -63,5 +65,6 @@ pip install -r requirements.txt
 
 4. Run the streamlit app
 streamlit run app.py
+
 
 
