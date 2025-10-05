@@ -39,3 +39,29 @@ It transforms raw NASA datasets into something everyone can explore, understand,
 cd ~/Desktop/earth_guardian
 source venv/bin/activate
 streamlit run app.py
+
+-----
+
+# Earth Guardian - NASA Space Apps Challenge 2025
+
+Earth Guardian is a Streamlit web app that allows users to search for meteors by name and see impact data, risk levels, and expected effects. The project uses NASA-provided meteor data.
+
+## How to Run Locally
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/55ll/Lyrica-NASA-Space-App-Hackathon-.git
+cd Lyrica-NASA-Space-App-Hackathon-
+
+2. Create a virtual enviornment (optional)
+python3 -m venv venv
+source venv/bin/activate  # Mac/Linux
+
+3. Install depencies
+pip install -r requirements.txt
+
+4. Run the streamlit app
+streamlit run app.py
+
+
